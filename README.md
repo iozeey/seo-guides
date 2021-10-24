@@ -20,8 +20,10 @@
 
 #10. SEO Workers
 
-# How to write SEO description ?
+# How to write SEO description?
+
 https://www.bigcommerce.com/blog/perfect-product-description-formula/
+
 SEO title
 target SEO keywords in this
 or keyword phrase at the start of the page title.
@@ -33,13 +35,25 @@ SEO content
 First, use your main keyword in the first couple of sentences of your content, or at least within the first paragraph.
 
 Next, use that keyword and variations
+# Tips
+- Rank main keyword and also rand other relevant keywords
 
 For content 
 http://www.hemingwayapp.com/
 
 
-# How-to-do-free-keyword-research? 
+# How to do free keyword research? 
+
 http://volumeseo.com/how-to-do-free-keyword-research-like-a-boss-free-seo-tutorial/
+
+# How to choose keywords worth targetting?
+
+- Check if keyword has search demand
+- Check the trafic poetntial of the topic
+- Check the Business potential of keyword
+- Check the keyword Match searcher intent
+- Check the Ranking difficulty in search engine
+ 
 # SEO Audit Chroom Extensions
 
 SimilarWeb
@@ -58,7 +72,9 @@ https://chrome.google.com/webstore/detail/mozbar/eakacpaijcpapndcfffdgphdiccmpkn
 
 
 https://monitorbacklinks.com/seo-tools
+
 https://chrome.google.com/webstore/detail/seo-website-analysis/hlngmmdolgbdnnimbmblfhhndibdipaf?hl=en
+
 For content writing.
 https://chrome.google.com/webstore/detail/seo-meta-in-1-click/bjogjfinolnhfhkbipphpdlldadpnmhc?hl=en
 
@@ -66,21 +82,24 @@ http://tools.buzzstream.com/link-building
 
 https://theseotools.net/
 
-
 https://neilpatel.com/ubersuggest/
 
 http://tools.buzzstream.com/link-building
+
 https://answerthepublic.com/reports/aacb6818-4493-46c2-849b-93028effa2e6
 
 https://lsigraph.com/
+
 https://blog.bufferapp.com/free-seo-tools
 
 https://smallseotools.com/backlink-checker/
+
 http://websiteseochecker.com/domain-authority-checker/#arearesult
 
 https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf/related?hl=en-GB
 
-https://app.kwfinder.com\
+https://app.kwfinder.com
+
 https://seranking.com/keyword-suggestion-tool.html
 
 #SEO Moz (Medium Plan)
