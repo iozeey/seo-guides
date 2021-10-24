@@ -1,13 +1,23 @@
 # Tools for SEO Audit
+
 #1. SE Ranking Website Audit
+
 #2. Screaming Frog
+
 #3. Seoptimer
+
 #4. MySiteAuditor
+
 #5. Marketing Grader
+
 #6. SiteAnalyzer
+
 #7. SEO Site Checkup
+
 #8. Woorank
+
 #9. SEO Report Card
+
 #10. SEO Workers
 
 # How to write SEO description ?
